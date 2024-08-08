@@ -1,5 +1,5 @@
 ## Architecture
-![Rive-AWS (3) drawio - 복사본](https://github.com/user-attachments/assets/046815bb-70ae-4851-bef4-a262ac146110)
+![Rive-AWS (3) drawio - 복사본](https://github.com/user-attachments/assets/997fd367-36d3-48ee-894f-2ade649afb8d)
 
 ## Gitlab
 ![gitlab구성도-투명 drawio (1)](https://github.com/user-attachments/assets/354b0986-a6f7-470c-8b73-bdda67fb645d)
